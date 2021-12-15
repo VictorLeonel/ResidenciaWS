@@ -1,2 +1,2 @@
-# ResidenciaWS
+# residenciaWS
 Este repositorio es de residencia
